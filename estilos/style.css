@@ -30,4 +30,9 @@ h2 {
 
 img.canto {
     float: right;
+    size: 0cap;
+}
+
+img.lado {
+    float: right;
 }
